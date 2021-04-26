@@ -1,0 +1,1 @@
+Device configuration for Nubia Z20
